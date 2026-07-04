@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=gkallums.)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jihoon%20Park)
 <!--
 **wari4589/wari4589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
